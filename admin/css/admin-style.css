@@ -1,0 +1,79 @@
+/* Add your custom plugin styles to display in the admin area */
+.image-preview{
+    min-width: 100px;
+    max-width: 100px;
+    width: 100%;
+    border-radius: 4px;
+}
+.category-image-upload img{
+    min-width: 100px;
+    max-width: 100px;
+    width: 100%;
+    display: block;
+}
+input[type="color" i]{
+    min-width: 30px;
+    max-width: 30px;
+    width: 30px;
+    padding: 0 !important;
+    margin: 0 !important;
+    height: 30px;
+    border: hidden;
+    background-color: transparent;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.d-flex{
+    grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];
+  grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];
+  display: flex;
+  padding: 30px;
+  align-items: center;
+}
+.category-image-upload{
+    padding: 4px 8px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    border: 1px solid #0071a1;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #0071a1;
+    background: #f3f5f6;
+    cursor: pointer;
+    min-width: 110px;
+    max-width: 110px;
+    width: 100%;
+    margin: 15px;
+    text-align: center;
+}
+.category-image-remove{
+    padding: 4px 8px;
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+    border-radius: 2px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #a00;
+    background: #f3f5f6;
+    cursor: pointer;
+    min-width: 110px;
+    max-width: 110px;
+    width: 100%;
+    margin: 15px;
+}
+.test-input{
+    visibility: hidden;
+}
+.category-row th{
+    padding-top: 77px;
+}
+input::-webkit-color-swatch {
+    border: none;
+}

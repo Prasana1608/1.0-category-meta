@@ -1,0 +1,17 @@
+# Query: misha-upl
+# ContextLines: 1
+
+3 results - 2 files
+
+category-image-color.php:
+  51      if( $image = wp_get_attachment_image_src( $image_id ) ) {
+  52:       echo '<a href="#" class="Category-image-upload"><img src="' . $image[0] . '" /></a>
+  53              <a href="#" class="misha-rmv">Remove image</a>';
+  54      } else {
+  55:       echo '<a href="#" class="Category-image-upload">Upload image</a>
+  56              <a href="#" class="misha-rmv" style="display:block">Remove image</a>';
+
+admin/js/wpplugin-admin.js:
+  5  	// on upload button click
+  6: 	$('body').on( 'click', '.Category-image-upload', function(e){
+  7   
