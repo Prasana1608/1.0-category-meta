@@ -1,7 +1,7 @@
-=== Category Meta ===
+=== Category Metas ===
 Contributors: PrasanaVasu
 Donate link: https://www.paypal.me/prasanavasu
-Tags: Category Image, Category Color, Category Meta.
+Tags: Category Image, Category Color, Category Metas.
 Requires at least: 3.7
 Requires PHP: 5.6
 Tested up to: 5.6
@@ -9,11 +9,11 @@ Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Category Meta Plugin gives two extra meta options for categories in WordPress Posts. You can add custom color and image to your categories. And, call them in front end.
+Category Metas Plugin gives two extra meta options for categories in WordPress Posts. You can add custom color and image to your categories. And, call them in front end.
 
 == Installation ==
 
-1. Upload the `Category Meta` folder to the `/wp-content/plugins` directory
+1. Upload the `Category Metas` folder to the `/wp-content/plugins` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
