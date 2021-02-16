@@ -26,9 +26,6 @@ include( plugin_dir_path( __FILE__ ) . 'includes/styles.php');
 // Enqueue Plugin JavaScript
 include( plugin_dir_path( __FILE__ ) . 'includes/scripts.php');
 
-// Create Plugin Admin Menus and Setting Pages
-include( plugin_dir_path( __FILE__ ) . 'includes/menus.php');
-
 ?>
 
 <?php
