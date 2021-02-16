@@ -1,5 +1,5 @@
 === Custom Category Meta ===
-Contributors: PrasanaVasu
+Contributors: prasanavasu
 Donate link: https://www.paypal.me/prasanavasu
 Tags: Category Image, Category Color, Custom Category Meta.
 Requires at least: 3.7
