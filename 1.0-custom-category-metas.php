@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Category Metas
+Plugin Name: Custom Category Metas
 Plugin URI: 
 Description: Demo plugin for custom category color and image.
 Version: 1.0

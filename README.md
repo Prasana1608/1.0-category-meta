@@ -1,4 +1,4 @@
-# 1.0-category-meta
+# 1.0-custom-category-meta
 WordPress Demo plugin for custom category color and image.
 
 
